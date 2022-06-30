@@ -1,5 +1,5 @@
 # CLTK / CLTKReaders Demo @ DICES Workshop
-*Written by [diyclassics](https://diyclassics.github.io). Last updated 6.26.2022.*
+*Written by [diyclassics](https://diyclassics.github.io). Last updated 6.29.2022.*
 
 This repo contains notebooks for a demo at Universität Rostock on 6/30/2022 on learning about the Classical Language Toolkit and CLTK Readers. These notebooks can be run in Binder (all data/models already available) here: 
 
